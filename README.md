@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-- 访问地址：[AI大模型应用开发学习平台](https://moyu-code-bot.github.io/AI-Agent-Study/)
+- 访问地址：[AI大模型应用开发学习平台](https://moxuanlan.github.io/AI-Agent-Study/)
 - 无需安装软件，使用现代浏览器即可开始学习。
 - 推荐使用电脑或平板访问，以获得更完整的目录与内容阅读体验。
 
